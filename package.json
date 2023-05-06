@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-puppeteer",
+  "version": "1.0.0",
+  "description": "NodeJS Puppeteer Scraper v1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodejs-puppeteer-dumptest"
+  },
+  "keywords": [
+    "nodejs",
+    "puppeteer",
+    "dumptest"
+  ],
+  "author": "Arif Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.9.1"
+  }
+}
